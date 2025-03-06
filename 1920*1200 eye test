@@ -1,3 +1,5 @@
+#copy and paste into an interpreter that supports python tkinter program
+
 import tkinter as tk
 from tkinter import font
 import random
